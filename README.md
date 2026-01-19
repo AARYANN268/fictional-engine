@@ -1,3 +1,7 @@
+Project Title: PhonePe Transaction Insights
+Skills take away From This Project:Data Extraction, SQL Proficiency, Data Visualization, Analytical Thinking, Documentation, Streamlit
+Domain:Finance/Payment Systems
+
 📌 Project Overview
 With the rapid growth of digital payment platforms like PhonePe, analyzing transaction behavior, user engagement, and insurance adoption is essential for understanding regional trends and improving financial services.
 This project focuses on analyzing aggregated transaction and insurance data across states, districts, and pin codes in India. Using data analytics and visualization techniques, meaningful insights are derived to identify top-performing regions, popular payment categories, and user trends.
